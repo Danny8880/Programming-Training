@@ -18,5 +18,11 @@ public class zeros_to_the_front
         // these variable are already declared above. 
 
         // write code here:
+    	for(int index = 0; index < length; index++)
+    	{
+    		 if( array[index]== 0);}
+    		 {
+    			If(array=
+    		 }
     }
 }
